@@ -123,7 +123,7 @@ export function NikeCard(props) {
               dragElastic={0.12}
               whileTap={{ cursor: "grabbing" }}
             >
-              <img src={AirJordanImg} />
+              <img src={AirJordanImg} alt='air' />
             </Shoes>
           </ShoesWrapper>
           <NikeText>NIKE AIR</NikeText>
